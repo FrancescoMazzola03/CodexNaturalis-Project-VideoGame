@@ -1,7 +1,10 @@
                                      Group members:  
 Daniele Kopyshevskiy, Leonardo Liparulo, Christian Malaman, Francesco Antonio Mazzola  
-  
-We implemented the game as “Regole Complete”  
+
+The goal of the project is to create a videogame of the CodexNaturalis board game.
+
+We implemented the game with Full Rules  
+
 Advanced features we have implemented:  
 -Multigames    
 -Chat    
@@ -39,4 +42,6 @@ Instructions to view emojis if they are not displayed correctly:
 -go to administrative language settings  
 -click change system locale  
 -check the box 'Beta: Use Unicode UTF-8 for language support at the system level'  
-  
+
+
+ Grade: 30 
